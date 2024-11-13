@@ -1,0 +1,251 @@
+.navbar-nav {
+    padding-left: 250px;
+}
+
+.active {
+   color : blue !important;
+}
+
+.navbar {
+    background-color: rgb(255, 255, 255);
+}
+
+.navbar-brand {
+    padding-left: 70px;
+}
+
+.navbar {
+    .btn{
+        margin-right: 50px;
+        border-radius: 2px;
+    }
+}
+
+.home{
+    background-color: azure;
+    .text{
+        padding-top: 120px;
+        padding-left: 20px;
+        .john {
+            font-weight: bold;
+            font-size: small;
+        }
+        .h1 {
+            font-weight: bold;
+        }
+        .product {
+            color: blue;
+        }
+        .btn {
+            margin-top: 20px;
+            border-radius: 2px;
+        }
+    }
+
+}
+
+.john1 {
+    width: 600px;
+    height: 500px;
+}
+
+.myskills {
+    font-weight: bold;
+    padding-left: 70px;
+    padding-top: 100px;
+    h1 {
+        font-weight: bold;
+    }
+}
+
+.stra-img {
+    width: 100px;
+    padding-left:4px;
+    padding-top: 5px;
+}
+
+.stra {
+    background-color: azure;
+    border-radius: 10px;
+    .card-title {
+        font-weight: bold;
+    }
+}
+
+.strategy {
+    .col-3 {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+}
+
+.john2 {
+    width: 600px;
+    height: 600px;
+}
+
+.about-me {
+    padding-top: 150px;
+    padding-left: 100px;
+}
+
+.aboutme {
+    font-weight: bold;
+}
+
+.recpro {
+    font-weight: bold;
+}
+
+.recent {
+    padding-top: 150px;
+    padding-bottom: 50px;
+    .btn {
+        margin-top: 15px;
+        margin-left: 80px;
+        background-color: rgb(241, 56, 118);
+        color:rgb(255, 255, 255);
+        .vec {
+            width: 20px;
+        }
+    }
+}
+
+.ahuse {
+    padding-bottom: 100px;
+    .btn {
+        font-weight: bold;
+        font-size: small;
+        padding-left: 0%;
+        border-bottom-color: blue;
+        border-radius: 0%;
+        .vecarr {
+            width: 20px;
+            padding-left: 8px;
+        }
+    }
+    
+}
+.clients {
+    background-color: azure;
+    padding-left: 70px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    .clifeed {
+        font-weight: bold; 
+    }
+}
+
+.diane {
+    background-color: azure;
+    padding-bottom: 100px;
+    .card{
+        background-color: azure;
+        border-color:rgb(7, 151, 151);
+    }
+    .card-img-top {
+        width: 100px;
+        padding-left: 20px;
+        padding-top: 20px;
+    }
+    .card-text {
+        font-size: small;
+    }
+    .card-end {
+        width: 150px;
+    }
+}
+
+.small-text {
+    font-size: small;
+}
+
+.get {
+    font-weight: bold;
+    font-size: small;
+    padding-left: 200px;
+}
+
+.conme {
+    h1 {
+    font-weight: bold;
+    padding-left: 135px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    }
+
+}
+
+.touch {
+    .col-6 {
+        padding-top: 100px;
+        padding-bottom: 50px;
+    }
+}
+
+.name {
+    input {
+        width: 260px;
+        border-color: blue;
+        border-radius: 4px;
+        border-width:1px;
+    }
+}
+
+.topic {
+    padding-top: 30px;
+    padding-bottom: 100px;
+    #topics {
+        width: 547px;
+        border-radius: 4px;
+        border-color: blue;
+    }
+    textarea {
+        width: 547px;
+        height: 150px;
+        border-radius: 4px;
+        border-color: blue;
+    }
+    .btn {
+        background-color: #5E3BEE;
+        margin-left: 240px;
+        color: white;
+        border-radius: 4px;
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+}
+
+.logoi {
+    padding-left: 60px;
+}
+
+.brand {
+    width: 30px;
+    padding-left: 10px;
+}
+
+.brand-names {
+    padding-left: 100px;
+}
+
+.logo-end {
+    background-color: azure;
+    padding-top: 100px;
+    padding-bottom: 80px;
+    font-size: small;
+    a {
+        text-decoration: none;
+        color: black;
+    }
+}
+
+.footer {
+    background-color: azure;
+    font-size: small;
+    padding-top: 20px;
+}
+
+
+
+
